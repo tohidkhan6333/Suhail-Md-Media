@@ -45,21 +45,34 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+var surl = 'https://github.com/Tohidkhan6332' // Source URL
+const number = '917849917350'
+var name = '*TOHID-KHAN*'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
-let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
-│ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
+var image = 'https://i.imgur.com/M1BzE37.jpeg'
+let text = `◈ •╭═══ ━ ━ • ━ ━ ━ ═══♡᭄
+ ◈ •│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
+ ◈ •│ Name      : ᴛᴏʜɪᴅ-ᴋʜᴀɴ
+ ◈ •│
+ ◈ •│ Place      : ɪɴᴅɪᴀ
+ ◈ •│
+ ◈ •│ Gender    : ᴍᴀʟᴇ
+ ◈ •│
+ ◈ •│ Age       : 19_
+ ◈ •│
+ ◈ •│ Status     : 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁
+ ◈ •│
+ ◈ •│ Phone     : wa.me/917849917350
+ ◈ •│
+ ◈ •│ IG ID      : Tohidkhan6332
+ ◈ •│
+ ◈ •│ Connect   : https://tg-contact-form.vercel.app/
+ ◈ •│
+ ◈ •│ Github     : Tohidkhan6332
+ ◈ •│
+ ◈ •│ Website    : https://tohid-web.vercel.app/
+ ◈ •│
+ ◈ •╰═══ ━ ━ • ━ ━ ━ ═══♡᭄`
 
 
 
